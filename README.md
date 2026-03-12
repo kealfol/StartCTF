@@ -1,4 +1,4 @@
-# 🚩 CTF Checklist: Ultimate Preparation Guide
+# 🚩 CTF Checklist:
 
 Этот репозиторий содержит пошаговый алгоритм действий ("First Steps") для решения задач в различных категориях CTF (Capture The Flag). Используй это как шпаргалку, когда не знаешь, с чего начать.
 
